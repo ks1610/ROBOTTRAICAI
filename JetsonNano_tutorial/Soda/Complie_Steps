@@ -1,0 +1,9 @@
+//On Soda JetsonNano Robot
+1. Access SSH of JetsonNano
+2. Go to Directory
+3. Run the code:
+python3 Robot_Recieve.py
+
+//On Code complie IDE
+Run the code file:
+python Finger_Detect_Signal_send.py 
